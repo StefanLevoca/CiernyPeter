@@ -16,6 +16,7 @@ package sk.stevo.CiernyPeter;
  *
  */
 
+//Spustac
 public class Main {
 
     public static void main(String[] args) {

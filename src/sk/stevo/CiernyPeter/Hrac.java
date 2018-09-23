@@ -47,5 +47,6 @@ public class Hrac {
                     System.out.printf("Cislo karty je %d a cislo paru je %d%n", karta.getCisloKarty(), karta.getCisloParu());
         }
         kartyVRuke.removeAll(akeKartyOdstraniZRuky);
+
     }
 }
